@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+
+<style>
+.bg{fill:#0b0b10}
+.card{fill:#11111a;stroke:#ff0080;stroke-width:2}
+.title{font:700 28px Arial,sans-serif;fill:#ffffff}
+.subtitle{font:600 18px Arial,sans-serif;fill:#ff4da6}
+.text{font:400 17px Arial,sans-serif;fill:#eeeeee}
+.label{font:700 17px Arial,sans-serif;fill:#ff4da6}
+.value{font:400 17px Arial,sans-serif;fill:#ffffff}
+.small{font:400 15px Arial,sans-serif;fill:#bcbcc8}
+.badge{fill:#7928ca}
+</style>
+
+<rect class="bg" x="0" y="0" width="1000" height="420" rx="28"/>
+<rect class="card" x="10" y="10" width="980" height="400" rx="24"/>
+<text class="title" x="45" y="58">📚 CURRENTLY LEARNING</text>
+<rect class="badge" x="45" y="75" width="75" height="4" rx="2"/>
+
+<rect x="45" y="115" width="160" height="70" rx="18" fill="#ff0080"/><text x="125" y="158" text-anchor="middle" font="700 18px Arial" fill="#fff">JAVA</text>
+<rect x="225" y="115" width="190" height="70" rx="18" fill="#7928ca"/><text x="320" y="158" text-anchor="middle" font="700 18px Arial" fill="#fff">SPRING BOOT</text>
+<rect x="435" y="115" width="170" height="70" rx="18" fill="#ff0080"/><text x="520" y="158" text-anchor="middle" font="700 18px Arial" fill="#fff">REST APIs</text>
+<rect x="625" y="115" width="140" height="70" rx="18" fill="#7928ca"/><text x="695" y="158" text-anchor="middle" font="700 18px Arial" fill="#fff">SQL</text>
+<rect x="785" y="115" width="120" height="70" rx="18" fill="#ff0080"/><text x="845" y="158" text-anchor="middle" font="700 18px Arial" fill="#fff">DSA</text>
+<text class="text" x="45" y="245">Learning through hands-on projects, problem solving and continuous practice.</text>
+<text class="subtitle" x="45" y="300">Learn by building • Improve by solving • Grow by shipping</text>
+
+</svg>
