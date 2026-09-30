@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+
+<style>
+.bg{fill:#0b0b10}
+.card{fill:#11111a;stroke:#ff0080;stroke-width:2}
+.title{font:700 28px Arial,sans-serif;fill:#ffffff}
+.subtitle{font:600 18px Arial,sans-serif;fill:#ff4da6}
+.text{font:400 17px Arial,sans-serif;fill:#eeeeee}
+.label{font:700 17px Arial,sans-serif;fill:#ff4da6}
+.value{font:400 17px Arial,sans-serif;fill:#ffffff}
+.small{font:400 15px Arial,sans-serif;fill:#bcbcc8}
+.badge{fill:#7928ca}
+</style>
+
+<rect class="bg" x="0" y="0" width="1000" height="420" rx="28"/>
+<rect class="card" x="10" y="10" width="980" height="400" rx="24"/>
+<text class="title" x="45" y="58">⭐ FEATURED PROJECT</text>
+<rect class="badge" x="45" y="75" width="75" height="4" rx="2"/>
+
+<text class="subtitle" x="45" y="125">🤖 ContactFlow AI</text>
+<text class="text" x="45" y="160">AI-focused application and practical software engineering project.</text>
+<text class="text" x="45" y="190">Exploring application development, workflows and AI-related functionality.</text>
+<text class="label" x="45" y="235">PROJECT FOCUS</text>
+<rect x="45" y="255" width="100" height="34" rx="17" fill="#ff0080"/><text x="95" y="277" text-anchor="middle" font="600 14px Arial" fill="#fff">AI</text>
+<rect x="160" y="255" width="190" height="34" rx="17" fill="#7928ca"/><text x="255" y="277" text-anchor="middle" font="600 14px Arial" fill="#fff">APPLICATION</text>
+<rect x="365" y="255" width="150" height="34" rx="17" fill="#ff0080"/><text x="440" y="277" text-anchor="middle" font="600 14px Arial" fill="#fff">WORKFLOW</text>
+<rect x="530" y="255" width="210" height="34" rx="17" fill="#7928ca"/><text x="635" y="277" text-anchor="middle" font="600 14px Arial" fill="#fff">SOFTWARE ENGINEERING</text>
+<text class="small" x="45" y="330">GitHub: github.com/abhisheksagar06/contactflow-AI</text>
+
+</svg>
