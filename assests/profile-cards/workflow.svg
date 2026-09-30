@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+
+<style>
+.bg{fill:#0b0b10}
+.card{fill:#11111a;stroke:#ff0080;stroke-width:2}
+.title{font:700 28px Arial,sans-serif;fill:#ffffff}
+.subtitle{font:600 18px Arial,sans-serif;fill:#ff4da6}
+.text{font:400 17px Arial,sans-serif;fill:#eeeeee}
+.label{font:700 17px Arial,sans-serif;fill:#ff4da6}
+.value{font:400 17px Arial,sans-serif;fill:#ffffff}
+.small{font:400 15px Arial,sans-serif;fill:#bcbcc8}
+.badge{fill:#7928ca}
+</style>
+
+<rect class="bg" x="0" y="0" width="1000" height="420" rx="28"/>
+<rect class="card" x="10" y="10" width="980" height="400" rx="24"/>
+<text class="title" x="45" y="58">💻 MY DEVELOPER WORKFLOW</text>
+<rect class="badge" x="45" y="75" width="75" height="4" rx="2"/>
+
+<rect x="45" y="120" width="120" height="100" rx="18" fill="#151520" stroke="#ff0080"/>
+<text x="105" y="160" text-anchor="middle" font-size="30">💡</text><text x="105" y="195" text-anchor="middle" class="label">IDEA</text>
+<text x="180" y="175" class="title">→</text>
+<rect x="215" y="120" width="120" height="100" rx="18" fill="#151520" stroke="#7928ca"/>
+<text x="275" y="160" text-anchor="middle" font-size="30">📝</text><text x="275" y="195" text-anchor="middle" class="label">DESIGN</text>
+<text x="350" y="175" class="title">→</text>
+<rect x="385" y="120" width="120" height="100" rx="18" fill="#151520" stroke="#ff0080"/>
+<text x="445" y="160" text-anchor="middle" font-size="30">💻</text><text x="445" y="195" text-anchor="middle" class="label">CODE</text>
+<text x="520" y="175" class="title">→</text>
+<rect x="555" y="120" width="120" height="100" rx="18" fill="#151520" stroke="#7928ca"/>
+<text x="615" y="160" text-anchor="middle" font-size="30">🧪</text><text x="615" y="195" text-anchor="middle" class="label">TEST</text>
+<text x="690" y="175" class="title">→</text>
+<rect x="725" y="120" width="120" height="100" rx="18" fill="#151520" stroke="#ff0080"/>
+<text x="785" y="160" text-anchor="middle" font-size="30">🚀</text><text x="785" y="195" text-anchor="middle" class="label">DEPLOY</text>
+<text class="small" x="45" y="275">Build → test → debug → improve → ship</text>
+
+</svg>
