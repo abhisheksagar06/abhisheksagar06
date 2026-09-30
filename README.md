@@ -1,5 +1,7 @@
 <!-- START -->
 
+<!-- ================= HERO ================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=220&section=header&text=Abhishek%20Sagar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
 </p>
@@ -21,294 +23,154 @@
   <img src="https://img.shields.io/github/stars/abhisheksagar06?style=for-the-badge&color=ff0080&labelColor=111111">
 </p>
 
----
+<br>
 
-# 👨‍💻 About Me
+<!-- ================= ABOUT ME ================= -->
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<h2 align="center">╭━━━ ✦ 👨‍💻 ABOUT ME ✦ ━━━╮</h2>
 
-### Hi, I'm Abhishek Sagar 👋
-
-I'm a **B.Tech Computer Science graduate (2025)** and an aspiring **Software Developer** based in **Noida, India**.
-
-I enjoy building applications, solving programming problems, learning backend technologies, and improving my development skills.
-
-* 💻 Interested in **Software & Backend Development**
-* ☕ Working with **Java**
-* 🌱 Currently learning **Spring Boot**
-* 🔧 Building a **Workflow Application using Java + Spring Boot**
-* 🧠 Practicing **DSA & Problem Solving**
-* 🗄️ Working with **SQL & Databases**
-* ⚛️ Experienced with **React & Web Development**
-* 🔌 Learning to build **REST APIs**
-* 🚀 Interested in writing clean and maintainable code
-* 🤝 Open to learning, collaboration and new opportunities
-* 📍 Based in **Noida, India**
-
-</td>
-
-<td width="35%" align="center">
-
-```text
-╔══════════════════════════╗
-║      DEVELOPER INFO      ║
-╠══════════════════════════╣
-║ 🎓 B.Tech CSE            ║
-║ 📅 Graduate: 2025        ║
-║ 💼 Software Developer    ║
-║ 📍 Noida, India          ║
-║ ☕ Java                  ║
-║ 🌱 Spring Boot           ║
-║ 🔧 Workflow Application  ║
-║ 🗄️ SQL                  ║
-║ 🎯 Software Development  ║
-╚══════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,c,cs" />
+<p align="center">
+  <img src="./assets/profile-cards/about-card.svg" width="95%" alt="About Abhishek Sagar">
 </p>
 
-### 🎨 Frontend
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap" />
+<!-- ================= TECH STACK ================= -->
+
+<h2 align="center">╭━━━ ✦ 🛠️ TECH STACK ✦ ━━━╮</h2>
+
+<p align="center">
+<i>Technologies I work with and continue to explore.</i>
 </p>
 
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,dotnet" />
+<p align="center">
+  <img src="./assets/profile-cards/tech-stack.svg" width="95%" alt="Tech Stack">
 </p>
 
-### 🗄️ Database & Cloud
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,azure" />
+<!-- ================= CORE TECHNOLOGIES ================= -->
+
+<h2 align="center">╭━━━ ✦ 🧩 CORE TECHNOLOGIES ✦ ━━━╮</h2>
+
+<p align="center">
+  <img src="./assets/profile-cards/core-technologies.svg" width="95%" alt="Core Technologies">
 </p>
 
-### 🔧 Tools & Platforms
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,androidstudio" />
+<!-- ================= CURRENTLY BUILDING ================= -->
+
+<h2 align="center">╭━━━ ✦ 🚀 CURRENTLY BUILDING ✦ ━━━╮</h2>
+
+<p align="center">
+  <img src="./assets/profile-cards/currently-building.svg" width="95%" alt="Currently Building">
 </p>
 
----
+<br>
 
-# 🧩 Core Technologies
+<!-- ================= FEATURED PROJECT ================= -->
 
-| Area                 | Technologies                                  |
-| -------------------- | --------------------------------------------- |
-| **Languages**        | Java, Python, JavaScript, C, C++, C#          |
-| **Frontend**         | HTML, CSS, React.js, JavaScript               |
-| **Backend**          | Java, Spring Boot, Node.js, Express.js, .NET  |
-| **Database**         | MySQL, MongoDB, PostgreSQL                    |
-| **API Development**  | REST APIs, Spring Boot                        |
-| **Computer Science** | DSA, OOP, DBMS, Computer Networks             |
-| **Tools**            | Git, GitHub, Postman, VS Code, Android Studio |
+<h2 align="center">╭━━━ ✦ ⭐ FEATURED PROJECT ✦ ━━━╮</h2>
 
----
+<p align="center">
+  <a href="https://github.com/abhisheksagar06/contactflow-AI">
+    <img src="./assets/profile-cards/featured-project.svg" width="95%" alt="ContactFlow AI">
+  </a>
+</p>
 
-# 🚀 Currently Building
+<br>
 
-## 🔧 Workflow Application
+<!-- ================= GITHUB ANALYTICS ================= -->
 
-**Tech Stack:** `Java` `Spring Boot` `REST API` `SQL`
+<h2 align="center">╭━━━ ✦ 📊 GITHUB ANALYTICS ✦ ━━━╮</h2>
 
-I'm currently building a **Workflow Application using Java and Spring Boot**.
+<p align="center">
+<i>A snapshot of my GitHub activity.</i>
+</p>
 
-The application focuses on managing workflow-based processes while helping me gain practical experience with backend development.
-
-### What I'm Learning Through This Project
-
-* Spring Boot architecture
-* REST API development
-* Business logic implementation
-* Database integration
-* API testing with Postman
-* Clean and maintainable code
-* Backend application structure
-* Exception handling
-* CRUD operations
-* Connecting application layers
-
-```text
-Client
-   │
-   ▼
-REST API
-   │
-   ▼
-Spring Boot
-   │
-   ├── Controller
-   ├── Service
-   ├── Repository
-   │
-   ▼
-Database
-```
-
----
-
-# 📂 Featured Projects
-
-### 🌍 Travel Together
-
-A web application designed to help people find travel partners based on destinations, interests and travel plans.
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
-
-* Interactive travel-focused UI
-* User authentication
-* Social login
-* Profile management
-* Trip profiles
-* Responsive design
-
----
-
-### 🔐 Cybersecurity Awareness Game
-
-An Android application designed to educate users about cybersecurity through interactive activities.
-
-**Tech:** `Java` `XML` `Android Studio`
-
-* Cybersecurity Quiz
-* Survey
-* Snake & Ladder activity
-* Memory-based activity
-* Topics including phishing, malware, passwords and safe browsing
-
----
-
-### 🛒 E-Commerce Frontend
-
-A Flipkart-inspired shopping frontend created to practice modern web development concepts.
-
-**Tech:** `HTML` `CSS` `JavaScript` `React`
-
-* Product-focused UI
-* Responsive design
-* Shopping interface
-* Component-based development
-
----
-
-# 📊 GitHub Analytics
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhisheksagar06&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksagar06&layout=compact&theme=radical&hide_border=true" height="180">
 </p>
 
----
+<br>
 
-# 🔥 GitHub Streak
+<!-- ================= STREAK ================= -->
+
+<h2 align="center">🔥 GITHUB STREAK</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhisheksagar06&theme=radical&hide_border=true">
 </p>
 
----
+<br>
 
-# 📈 Contribution Activity
+<!-- ================= ACTIVITY ================= -->
+
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksagar06&theme=react-dark&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksagar06&theme=react-dark&hide_border=true&area=true" width="95%">
 </p>
 
----
+<br>
 
-# 🐍 Contribution Snake
+<!-- ================= SNAKE ================= -->
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheksagar06/abhisheksagar06/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
----
+<br>
 
-# 💻 My Developer Workflow
+<!-- ================= WORKFLOW ================= -->
 
-```text
-       💡 IDEA
-          │
-          ▼
-      📝 DESIGN
-          │
-          ▼
-       💻 CODE
-          │
-          ▼
-       🧪 TEST
-          │
-          ▼
-       🔧 DEBUG
-          │
-          ▼
-       🚀 DEPLOY
-          │
-          ▼
-      📈 IMPROVE
-```
+<h2 align="center">╭━━━ ✦ 💻 MY DEVELOPER WORKFLOW ✦ ━━━╮</h2>
 
----
+<p align="center">
+  <img src="./assets/profile-cards/workflow.svg" width="95%" alt="Developer Workflow">
+</p>
 
-# 🎯 Current Focus
+<br>
 
-| Focus             | What I'm Doing                     |
-| ----------------- | ---------------------------------- |
-| 🔧 **Building**   | Workflow Application               |
-| ☕ **Backend**     | Java + Spring Boot                 |
-| 🌱 **Learning**   | Spring Boot + REST API Development |
-| 🧠 **Practicing** | DSA + Problem Solving              |
-| 🗄️ **Database**  | SQL + Database Integration         |
-| 🎯 **Goal**       | Become a strong Software Developer |
+<!-- ================= CURRENT FOCUS ================= -->
 
----
+<h2 align="center">╭━━━ ✦ 🎯 CURRENT FOCUS ✦ ━━━╮</h2>
 
-# 📚 Learning
+<p align="center">
+  <img src="./assets/profile-cards/current-focus.svg" width="95%" alt="Current Focus">
+</p>
 
-Currently focusing on:
+<br>
 
-* ☕ **Java**
-* 🌱 **Spring Boot**
-* 🔌 **REST API Development**
-* 🗄️ **SQL & Database Integration**
-* 🧠 **Data Structures & Algorithms**
-* 🏗️ **Backend Application Architecture**
-* 🧪 **API Testing with Postman**
-* 🔧 **Git & GitHub**
+<!-- ================= LEARNING ================= -->
 
-> Learning by building real projects and solving problems every day.
+<h2 align="center">╭━━━ ✦ 📚 LEARNING ✦ ━━━╮</h2>
 
----
+<p align="center">
+  <img src="./assets/profile-cards/learning.svg" width="95%" alt="Currently Learning">
+</p>
 
-# 🎯 My Goal
+<br>
 
-My goal is to become a **skilled Software Developer** with strong foundations in **Java, Spring Boot, backend development, databases and problem solving**.
+<!-- ================= GOAL ================= -->
 
-I want to build scalable and maintainable applications, strengthen my software engineering fundamentals, and continuously improve through real-world projects.
+<h2 align="center">╭━━━ ✦ 🎯 MY GOAL ✦ ━━━╮</h2>
 
-```text
-Learn → Build → Test → Improve → Repeat 🔁
-```
+<p align="center">
+  <img src="./assets/profile-cards/goal.svg" width="95%" alt="My Goal">
+</p>
 
----
+<br>
 
-# 🤝 Let's Connect
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">╭━━━ ✦ 🤝 LET'S CONNECT ✦ ━━━╮</h2>
 
 <p align="center">
 
@@ -334,22 +196,17 @@ Learn → Build → Test → Improve → Repeat 🔁
 
 </p>
 
----
+<br>
 
-# 💭 Developer Philosophy
+<!-- ================= PHILOSOPHY ================= -->
 
-> **"Don't just write code. Understand it, improve it, and build something useful."**
+<p align="center">
+  <img src="./assets/profile-cards/philosophy.svg" width="95%" alt="Developer Philosophy">
+</p>
 
-```java
-while (true) {
-    learn();
-    build();
-    solveProblems();
-    improve();
-}
-```
+<br>
 
----
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:ff0080&height=120&section=footer" width="100%">
