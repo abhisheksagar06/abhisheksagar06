@@ -3,7 +3,7 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="./assets/profile-cards/abhishek-hero-banner.svg" width="100%" alt="Abhishek Sagar Developer Banner">
+  <img src="./assests/profile-cards/abhishek-hero-banner.svg" width="100%" alt="Abhishek Sagar Developer Banner">
 </p>
 
 <p align="center">
