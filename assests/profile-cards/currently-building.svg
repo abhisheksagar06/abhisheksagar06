@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+
+<style>
+.bg{fill:#0b0b10}
+.card{fill:#11111a;stroke:#ff0080;stroke-width:2}
+.title{font:700 28px Arial,sans-serif;fill:#ffffff}
+.subtitle{font:600 18px Arial,sans-serif;fill:#ff4da6}
+.text{font:400 17px Arial,sans-serif;fill:#eeeeee}
+.label{font:700 17px Arial,sans-serif;fill:#ff4da6}
+.value{font:400 17px Arial,sans-serif;fill:#ffffff}
+.small{font:400 15px Arial,sans-serif;fill:#bcbcc8}
+.badge{fill:#7928ca}
+</style>
+
+<rect class="bg" x="0" y="0" width="1000" height="420" rx="28"/>
+<rect class="card" x="10" y="10" width="980" height="400" rx="24"/>
+<text class="title" x="45" y="58">🚀 CURRENTLY BUILDING</text>
+<rect class="badge" x="45" y="75" width="75" height="4" rx="2"/>
+
+<text class="subtitle" x="45" y="125">🔧 Workflow Application</text>
+<text class="text" x="45" y="160">Building a workflow application using Java + Spring Boot</text>
+<text class="text" x="45" y="190">to gain practical backend development experience.</text>
+<rect x="45" y="220" width="190" height="40" rx="20" fill="#ff0080"/>
+<text x="140" y="246" text-anchor="middle" font="700 15px Arial" fill="#fff">JAVA</text>
+<rect x="250" y="220" width="220" height="40" rx="20" fill="#7928ca"/>
+<text x="360" y="246" text-anchor="middle" font="700 15px Arial" fill="#fff">SPRING BOOT</text>
+<rect x="485" y="220" width="170" height="40" rx="20" fill="#ff0080"/>
+<text x="570" y="246" text-anchor="middle" font="700 15px Arial" fill="#fff">REST APIs</text>
+<rect x="670" y="220" width="150" height="40" rx="20" fill="#7928ca"/>
+<text x="745" y="246" text-anchor="middle" font="700 15px Arial" fill="#fff">SQL</text>
+<text class="label" x="55" y="305">Focus</text>
+<text class="value" x="145" y="305">CRUD • Business Logic • Database • Testing • Exception Handling</text>
+<text class="small" x="55" y="345">Architecture: Controller → Service → Repository</text>
+
+</svg>
