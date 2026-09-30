@@ -30,7 +30,7 @@
 <h2 align="center">╭━━━ ✦ 👨‍💻 ABOUT ME ✦ ━━━╮</h2>
 
 <p align="center">
-  <img src="./assets/profile-cards/about-card.svg" width="95%" alt="About Abhishek Sagar">
+  <img src="./assests/profile-cards/about-card.svg" width="95%" alt="About Abhishek Sagar">
 </p>
 
 <br>
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-cards/tech-stack.svg" width="95%" alt="Tech Stack">
+  <img src="./assests/profile-cards/tech-stack.svg" width="95%" alt="Tech Stack">
 </p>
 
 <br>
@@ -54,7 +54,7 @@
 <h2 align="center">╭━━━ ✦ 🧩 CORE TECHNOLOGIES ✦ ━━━╮</h2>
 
 <p align="center">
-  <img src="./assets/profile-cards/core-technologies.svg" width="95%" alt="Core Technologies">
+  <img src="./assests/profile-cards/core-technologies.svg" width="95%" alt="Core Technologies">
 </p>
 
 <br>
@@ -64,7 +64,7 @@
 <h2 align="center">╭━━━ ✦ 🚀 CURRENTLY BUILDING ✦ ━━━╮</h2>
 
 <p align="center">
-  <img src="./assets/profile-cards/currently-building.svg" width="95%" alt="Currently Building">
+  <img src="./assests/profile-cards/currently-building.svg" width="95%" alt="Currently Building">
 </p>
 
 <br>
@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/abhisheksagar06/contactflow-AI">
-    <img src="./assets/profile-cards/featured-project.svg" width="95%" alt="ContactFlow AI">
+    <img src="./assests/profile-cards/featured-project.svg" width="95%" alt="ContactFlow AI">
   </a>
 </p>
 
@@ -133,7 +133,7 @@
 <h2 align="center">╭━━━ ✦ 💻 MY DEVELOPER WORKFLOW ✦ ━━━╮</h2>
 
 <p align="center">
-  <img src="./assets/profile-cards/workflow.svg" width="95%" alt="Developer Workflow">
+  <img src="./assests/profile-cards/workflow.svg" width="95%" alt="Developer Workflow">
 </p>
 
 <br>
@@ -143,7 +143,7 @@
 <h2 align="center">╭━━━ ✦ 🎯 CURRENT FOCUS ✦ ━━━╮</h2>
 
 <p align="center">
-  <img src="./assets/profile-cards/current-focus.svg" width="95%" alt="Current Focus">
+  <img src="./assests/profile-cards/current-focus.svg" width="95%" alt="Current Focus">
 </p>
 
 <br>
@@ -153,7 +153,7 @@
 <h2 align="center">╭━━━ ✦ 📚 LEARNING ✦ ━━━╮</h2>
 
 <p align="center">
-  <img src="./assets/profile-cards/learning.svg" width="95%" alt="Currently Learning">
+  <img src="./assests/profile-cards/learning.svg" width="95%" alt="Currently Learning">
 </p>
 
 <br>
@@ -163,7 +163,7 @@
 <h2 align="center">╭━━━ ✦ 🎯 MY GOAL ✦ ━━━╮</h2>
 
 <p align="center">
-  <img src="./assets/profile-cards/goal.svg" width="95%" alt="My Goal">
+  <img src="./assests/profile-cards/goal.svg" width="95%" alt="My Goal">
 </p>
 
 <br>
@@ -201,7 +201,7 @@
 <!-- ================= PHILOSOPHY ================= -->
 
 <p align="center">
-  <img src="./assets/profile-cards/philosophy.svg" width="95%" alt="Developer Philosophy">
+  <img src="./assests/profile-cards/philosophy.svg" width="95%" alt="Developer Philosophy">
 </p>
 
 <br>
