@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+
+<style>
+.bg{fill:#0b0b10}
+.card{fill:#11111a;stroke:#ff0080;stroke-width:2}
+.title{font:700 28px Arial,sans-serif;fill:#ffffff}
+.subtitle{font:600 18px Arial,sans-serif;fill:#ff4da6}
+.text{font:400 17px Arial,sans-serif;fill:#eeeeee}
+.label{font:700 17px Arial,sans-serif;fill:#ff4da6}
+.value{font:400 17px Arial,sans-serif;fill:#ffffff}
+.small{font:400 15px Arial,sans-serif;fill:#bcbcc8}
+.badge{fill:#7928ca}
+</style>
+
+<rect class="bg" x="0" y="0" width="1000" height="420" rx="28"/>
+<rect class="card" x="10" y="10" width="980" height="400" rx="24"/>
+<text class="title" x="45" y="58">🧩 CORE TECHNOLOGIES</text>
+<rect class="badge" x="45" y="75" width="75" height="4" rx="2"/>
+
+<rect x="45" y="105" width="910" height="260" rx="12" fill="#0d0d14" stroke="#292936"/>
+<text class="label" x="65" y="140">AREA</text><text class="label" x="300" y="140">TECHNOLOGIES</text>
+<line x1="55" y1="155" x2="945" y2="155" stroke="#292936"/>
+<text class="label" x="65" y="190">👨‍💻 Programming</text><text class="value" x="300" y="190">Java • Python • JavaScript • C++</text>
+<text class="label" x="65" y="225">🎨 Frontend</text><text class="value" x="300" y="225">HTML • CSS • React.js</text>
+<text class="label" x="65" y="260">⚙️ Backend</text><text class="value" x="300" y="260">Java • Spring Boot • Node.js</text>
+<text class="label" x="65" y="295">🗄️ Database</text><text class="value" x="300" y="295">MySQL • MongoDB • PostgreSQL</text>
+<text class="label" x="65" y="330">🧠 CS Fundamentals</text><text class="value" x="300" y="330">DSA • OOP • DBMS • Networks</text>
+
+</svg>
