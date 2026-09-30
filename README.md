@@ -3,7 +3,7 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=220&section=header&text=Abhishek%20Sagar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
+  <img src="./assets/profile-cards/abhishek-hero-banner.svg" width="100%" alt="Abhishek Sagar Developer Banner">
 </p>
 
 <p align="center">
