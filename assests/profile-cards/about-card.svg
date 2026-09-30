@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+
+<style>
+.bg{fill:#0b0b10}
+.card{fill:#11111a;stroke:#ff0080;stroke-width:2}
+.title{font:700 28px Arial,sans-serif;fill:#ffffff}
+.subtitle{font:600 18px Arial,sans-serif;fill:#ff4da6}
+.text{font:400 17px Arial,sans-serif;fill:#eeeeee}
+.label{font:700 17px Arial,sans-serif;fill:#ff4da6}
+.value{font:400 17px Arial,sans-serif;fill:#ffffff}
+.small{font:400 15px Arial,sans-serif;fill:#bcbcc8}
+.badge{fill:#7928ca}
+</style>
+
+<rect class="bg" x="0" y="0" width="1000" height="420" rx="28"/>
+<rect class="card" x="10" y="10" width="980" height="400" rx="24"/>
+<text class="title" x="45" y="58">👨‍💻 ABOUT ME</text>
+<rect class="badge" x="45" y="75" width="75" height="4" rx="2"/>
+
+<text class="subtitle" x="45" y="125">Hi, I'm Abhishek Sagar 👋</text>
+<text class="text" x="45" y="160">B.Tech Computer Science &amp; Engineering graduate • 2025</text>
+<text class="text" x="45" y="193">Aspiring Software Developer focused on Java and backend development.</text>
+<text class="text" x="45" y="226">I enjoy building applications, solving DSA problems and learning modern</text>
+<text class="text" x="45" y="251">software engineering practices.</text>
+<line x1="45" y1="275" x2="955" y2="275" stroke="#292936"/>
+<text class="label" x="55" y="310">☕ Primary</text><text class="value" x="190" y="310">Java</text>
+<text class="label" x="330" y="310">⚙️ Backend</text><text class="value" x="470" y="310">Spring Boot</text>
+<text class="label" x="650" y="310">🗄️ Database</text><text class="value" x="800" y="310">SQL</text>
+<text class="label" x="55" y="350">🎨 Frontend</text><text class="value" x="190" y="350">React.js</text>
+<text class="label" x="330" y="350">🧠 Practice</text><text class="value" x="470" y="350">DSA</text>
+<text class="label" x="650" y="350">🔌 APIs</text><text class="value" x="800" y="350">REST</text>
+
+</svg>
