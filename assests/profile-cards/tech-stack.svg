@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+
+<style>
+.bg{fill:#0b0b10}
+.card{fill:#11111a;stroke:#ff0080;stroke-width:2}
+.title{font:700 28px Arial,sans-serif;fill:#ffffff}
+.subtitle{font:600 18px Arial,sans-serif;fill:#ff4da6}
+.text{font:400 17px Arial,sans-serif;fill:#eeeeee}
+.label{font:700 17px Arial,sans-serif;fill:#ff4da6}
+.value{font:400 17px Arial,sans-serif;fill:#ffffff}
+.small{font:400 15px Arial,sans-serif;fill:#bcbcc8}
+.badge{fill:#7928ca}
+</style>
+
+<rect class="bg" x="0" y="0" width="1000" height="420" rx="28"/>
+<rect class="card" x="10" y="10" width="980" height="400" rx="24"/>
+<text class="title" x="45" y="58">🛠️ TECH STACK</text>
+<rect class="badge" x="45" y="75" width="75" height="4" rx="2"/>
+
+<text class="label" x="55" y="125">LANGUAGES</text>
+<text class="text" x="55" y="155">☕ Java   •   🐍 Python   •   JS JavaScript   •   C++</text>
+<text class="label" x="55" y="205">FRONTEND</text>
+<text class="text" x="55" y="235">🌐 HTML   •   CSS   •   ⚛️ React.js   •   JavaScript</text>
+<text class="label" x="55" y="285">BACKEND</text>
+<text class="text" x="55" y="315">☕ Java   •   🌱 Spring Boot   •   Node.js</text>
+<text class="label" x="55" y="365">DATABASE &amp; TOOLS</text>
+<text class="text" x="55" y="395">🗄️ MySQL   •   MongoDB   •   PostgreSQL   •   Git   •   GitHub   •   Postman</text>
+
+</svg>
